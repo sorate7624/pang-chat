@@ -123,7 +123,7 @@ function App() {
     <>
       <header>
         <h1 className="logo animate__animated animate__fadeInDown">
-          <img src="../public/pang-chat.png" alt="pang-chat-icon" />
+          <img src="./pang-chat.png" alt="pang-chat-icon" />
           <a href="#">Pang Chat</a>
         </h1>
       </header>
